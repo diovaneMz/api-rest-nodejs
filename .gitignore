@@ -10,3 +10,6 @@ db/*.db
 
 # BUILD
 build
+
+# VSCODE
+.vscode
